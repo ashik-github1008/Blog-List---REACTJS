@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+* {
+  font-family: 'Roboto';
+}
+
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-profile-img {
+  width: 134px;
+}
+
+.user-name {
+  color: #12022f;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.user-job-name {
+  color: #616e7c;
+  font-weight: 500;
+  font-size: 17px;
+}
